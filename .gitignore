@@ -1,0 +1,17 @@
+# Environments
+.env
+*.env
+
+# Trained model files (large, regenerate by re-running the notebook)
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
